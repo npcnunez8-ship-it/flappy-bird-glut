@@ -55,3 +55,5 @@ An interactive 2D Flappy Bird game built using **C++** and **GLUT (OpenGL Utilit
    -lfreeglut
    -lopengl32
    -lglu32
+4. Enable C++11 standard under **Settings -> Compiler -> Compiler Flags** (`-std=c++11`).
+5. Press **`F9`** (Build and Run).
